@@ -1,0 +1,14 @@
+/* style.css */
+/*.bg-navbar{
+	 
+       background: linear-gradient(90deg,white 2%, #4B0082 74%);
+}*/
+
+.bg-navbar {
+    background: linear-gradient(90deg,#f9f5f5 2%, #f95e3a 74%);
+}
+/*.bg-navbar{
+	  background: linear-gradient(90deg, white 2%, #fd7c55 55%);
+	  background: linear-gradient(130deg,#ff7a18,#af002d 41.07%,#319197 76.05%);
+}*/
+
